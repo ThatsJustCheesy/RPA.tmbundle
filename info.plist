@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Ian A. Gregory</string>
+	<key>description</key>
+	<string>Support for RPA (Regular Pattern Analyzer)’s BNF-style grammar definitions.</string>
+	<key>name</key>
+	<string>RPA</string>
+	<key>uuid</key>
+	<string>230FB2EB-FB36-400F-A419-345AE0307F45</string>
+</dict>
+</plist>
